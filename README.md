@@ -1,10 +1,9 @@
-# Forensic Fraud Detection (CV-ready)
+# Forensic Fraud Detection 
 
 This project demonstrates basic forensic data analytics for fraud detection using a transactions dataset.
 Files:
 - fraud_data.csv (dataset)
 - fraud_detection_notebook.ipynb (step-by-step notebook)
-- TARGET_CLEANING_NOTE.txt (note about target cleaning)
 
 How to run:
 1. Clone repo.
@@ -14,4 +13,4 @@ How to run:
 
 Notes on data issues: the original `is_fraud` column had malformed strings in some rows; the notebook shows the cleaning step (extract leading 0/1 and drop malformed rows).
 
-For your CV, include the CV snippet from the notebook or below.
+
