@@ -119,7 +119,7 @@ This project demonstrates how forensic data analytics can help a **leading finan
 ---
 
 ## 👨‍💻 Author  
-Developed by **[Your Full Name]**  
-📧 Email: your.email@example.com  
-📞 Phone: +255 XXX XXX XXX  
+Developed by AMON ASWEGE MWASYOGE 
+📧 Email: amonaswege426@gmail.com 
+📞 Phone: +255 619 867 946
 🎓 Data Science Graduate | Forensic Data Analytics Enthusiast  
